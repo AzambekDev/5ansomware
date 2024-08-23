@@ -2,6 +2,7 @@ POV: you drank a bit too much caffeine and decided to make a ransomware at 5:47a
 
 btw this is pretty shitty so skids cant use it without solving some problems
 other than that i spent a solid 2 hours on this. It has:
+        
         A chat feature
         Base64 encryption for the keys
         A popup type shii
