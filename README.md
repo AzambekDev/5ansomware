@@ -11,5 +11,5 @@ other than that i spent a solid 2 hours on this. It has:
 
 If you wanna send it to people, i dont condone that shii and this is for "educational purposes"
 
-To send it you need to use pyinstaller so that all the dependcies get downloaded automatically 
+To send it you need to use pyinstaller so that all the dependencies get downloaded automatically 
 im not gonna show how to do it as youtube is a thing.
