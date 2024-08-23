@@ -1,33 +1,14 @@
-# GeminiAicom
+POV: you drank a bit too much caffeine and decided to make a ransomware at 5:47am and then pass out for 14 hours
 
-An webapp to help cybersecurity engineers with CTFs by providing all the tools and assitance with Gemini AI;
+btw this is pretty shitty so skids cant use it without solving some problems
+other than that i spent a solid 2 hours on this. It has:
+        A chat feature
+        Base64 encryption for the keys
+        A popup type shii
+        it encrypts everything and i mean EVERYTHING
+        DONT USE IT ON YOUR OWN DEVICE, TRUST ME I DID THAT STUPID SHIT.
 
-    Features:
-        Challenge Categories: Organize tools and resources by challenge type (e.g., cryptography, forensics, web exploitation, reverse engineering, binary exploitation).
+If you wanna send it to people, i dont condone that shii and this is for "educational purposes"
 
-        AI Assistance: Integrate AI tools for:
-        1. Automated code analysis
-        2. Vulnerability detection
-        3. Natural Language Processing (NLP) for hint interpretation
-        4. Pattern recognition in cryptography challenges
-
-        Toolbox Integration:
-        1. Cryptography tools (e.g., hash calculators, encryption/decryption tools)
-        2. Forensics tools (e.g., file analysis, memory dump analysis)
-        3. Web exploitation tools (e.g., SQLi scanners, XSS scanners)
-        4. Reverse engineering tools (e.g., disassemblers, decompilers)
-        5. Binary exploitation tools (e.g., buffer overflow testers)
-        
-        Collaborative Features:
-        1. Shared workspaces
-        2. Real-time collaboration and chat
-        3. Team management
-        
-        Resource Repository:
-        1. Tutorials
-        2. Write-ups of past CTFs
-        3. Reference materials and documentation
-        
-        User Management:
-        1. Authentication and authorization
-        2. User profiles and progress tracking
+To send it you need to use pyinstaller so that all the dependcies get downloaded automatically 
+im not gonna show how to do it as youtube is a thing.
